@@ -1,0 +1,10 @@
+body{
+    background: url('https://i.pinimg.com/originals/bd/1f/58/bd1f587613b2105c538bf1b9bba698b6.gif');
+}
+h3{
+    font-size: 25px;
+    color: aqua;
+}
+canvas{
+    border: 4px rgb(230, 27, 27) solid;
+}
